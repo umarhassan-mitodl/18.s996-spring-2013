@@ -1,0 +1,27 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 764f5bfc-7935-2808-a8ef-1cbe7cb91368
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 216be550-e277-1dd3-0110-fb584cb03b54
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: ecf2094e-695d-b57c-53c4-977655e1ee03
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: a1137e8a-1df4-6532-e854-5f834ba89cf9
+  name: Readings and Assignments
+  pageRef: /pages/readings
+  weight: 40
+- identifier: 333ad9bb-2d71-e34a-415e-d9460aa39115
+  name: Textbook
+  pageRef: /pages/textbook
+  weight: 50
+- identifier: 77876f98-d3aa-c1b7-bbd1-27c66dd48b01
+  name: Projects
+  pageRef: /pages/projects
+  weight: 60
