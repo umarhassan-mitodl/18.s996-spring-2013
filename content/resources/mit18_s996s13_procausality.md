@@ -5,8 +5,6 @@ description: This resource contains information regarding proving causality in s
 file: /courses/18-s996-category-theory-for-scientists-spring-2013/a9f2a10cc75e30365207f9c81cb9ccf5_MIT18_S996S13_ProCausality.pdf
 file_size: 1320867
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

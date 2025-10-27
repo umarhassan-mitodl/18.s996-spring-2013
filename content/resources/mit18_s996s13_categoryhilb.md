@@ -5,8 +5,6 @@ description: This resource contains information regarding illustration of catego
 file: /courses/18-s996-category-theory-for-scientists-spring-2013/55c2ef590fc4492a177149aeebbc2dc5_MIT18_S996S13_CategoryHilb.pdf
 file_size: 859205
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

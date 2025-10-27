@@ -29,7 +29,6 @@
     "website": "18-s996-category-theory-for-scientists-spring-2013"
   },
   "course_title": "Category Theory for Scientists",
-  "hide_download": true,
   "course_description": "The goal of this class is to prove that category theory is a powerful language for understanding and formalizing common scientific models. The power of the language will be tested by its ability to penetrate into taken-for-granted ideas, either by exposing existing weaknesses or flaws in our understanding, or by highlighting hidden commonalities across scientific fields.\n",
   "department_numbers": [
     "18"
@@ -40,7 +39,6 @@
     "content": "8f40e1ed-d8a7-03b0-3f91-5a7527b1c264",
     "website": "18-s996-category-theory-for-scientists-spring-2013"
   },
-  "hide_download_original": null,
   "learning_resource_types": [
     "Projects with Examples",
     "Open Textbooks",

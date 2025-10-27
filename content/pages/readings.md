@@ -3,8 +3,6 @@ content_type: page
 description: This section provides information on the course textbook, a key to the
   readings, the schedule of readings and homework assignments by session, and a list
   of additional readings.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Readings and Assignments
@@ -232,8 +230,8 @@ Summarize your experience in this class
 Perhaps also of Interest
 ------------------------
 
-Baez, John C., and Mike Stay. "[Physics, Topology, Logic, and Computation: A Rosetta Stone](http://arxiv.org/abs/0903.0340)." March 2, 2009.
+Baez, John C., and Mike Stay. "{{% resource_link "af6b14cf-4f3c-41db-bc71-1b08150cf0e8" "Physics, Topology, Logic, and Computation: A Rosetta Stone" %}}." March 2, 2009.
 
-Gromov, Misha. "[In a Search for a Structure, Part 1: On Entropy." (PDF)](http://math.mit.edu/~dspivak/teaching/sp13/gromov--EntropyViaCT.pdf) July 10, 2012.
+Gromov, Misha. "{{% resource_link "106581cf-9d8c-49d2-8804-6e887f4222d9" "In a Search for a Structure, Part 1: On Entropy.\" (PDF)" %}} July 10, 2012.
 
-Weinstein, Alan. "[Groupoids Unifying Internal and External Symmetry: A Tour through Some Examples](http://citeseerx.ist.psu.edu/viewdoc/summary;jsessionid=254512399AC565D2C6D35415DD629541?doi=10.1.1.217.4695)." _Notices of the American Mathematical Society_ 43 (1996): 744–52.
+Weinstein, Alan. "{{% resource_link "ab882148-df20-4cd7-b623-be7ae0108f13" "Groupoids Unifying Internal and External Symmetry: A Tour through Some Examples" %}}." _Notices of the American Mathematical Society_ 43 (1996): 744–52.
